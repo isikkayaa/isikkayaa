@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **food delivery app**
 
-- 🌱 I’m currently learning **MVVM architectural pattern**
+- 🌱 I’m currently learning **Android MVVM architectural pattern**
 
-- 📫 How to reach me **isikk428@gmail.com**
+- 📫 You can reach me -> **isikk428@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
