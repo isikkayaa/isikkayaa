@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Ülkü Işık</h1>
 <h3 align="center">I am a senior computer engineering student and I develop Android mobile applications with Kotlin.</h3>
 
-- 🔭 I’m currently working on **food delivery applicaton**
+- 🔭 I’m currently working on **food delivery application**
 
 - 🌱 I’m currently learning **Android MVVM architectural pattern**
 
