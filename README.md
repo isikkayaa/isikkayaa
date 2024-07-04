@@ -1,9 +1,7 @@
 <h1 align="center">Hi! I'm Ülkü Işık</h1>
-<h3 align="center">I am a senior computer engineering student and I develop Android mobile applications with Kotlin.</h3>
+<h3 align="center">I am a newly graduated computer engineer and I develop Android mobile applications with Kotlin.</h3>
 
-- 🔭 I’m currently working on **food delivery application**
-
-- 🌱 I’m currently learning **Android MVVM architectural pattern**
+- 🔭 I’m currently working on my new application.
 
 - 📫 You can reach me -> **isikk428@gmail.com**
 
