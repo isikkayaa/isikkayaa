@@ -2,12 +2,15 @@
 <h3 align="center">I am a newly graduated computer engineer and I develop Android mobile applications with Kotlin.</h3>
 
 - 🔭 I’m currently working on my new application.
+- 📝 I regularly write articles on [https://medium.com/@isikkayaa](https://medium.com/@isikkayaa)
 
 - 📫 You can reach me -> **isikk428@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C3%BClk%C3%BC-%C4%B1%C5%9F%C4%B1k-kaya-1103-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ülkü-ışık-kaya-1103-" height="30" width="40" /></a>
+
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
